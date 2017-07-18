@@ -1,0 +1,5 @@
+node_modules/
+errorShots/
+my-shots/
+diffs/
+wdio.conf.js
